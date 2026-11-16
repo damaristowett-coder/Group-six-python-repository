@@ -1,2 +1,2 @@
 # Python-Codes-
-Detailed codes for shule
+This repository contains python codes for group six
